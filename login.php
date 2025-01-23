@@ -44,7 +44,7 @@
 							<input type="password" name="pass" placeholder="Password" class="input-control">
 						</div>
 
-						<input type="submit" name="submit" value="Login" class="btn">
+						<input type="submit" name="submit" value="Login" class="btn btn-primary">
 
 					</form>
 
